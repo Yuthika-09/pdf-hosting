@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: src/components/VideoPage.jsx
+  checksum: 19db3e77139eec4e9db90330dd8bccc98418e5122acaa377dd61534e17d066d5
+- filename: package-lock.json
+  checksum: f6d85d72445a01403003a5c69c1f41cc07ea01462c0e6c69c6b9a5314d19b7d9
+version: ""
